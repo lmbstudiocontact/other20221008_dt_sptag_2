@@ -1,0 +1,131 @@
+{
+  "id_sptag": "1416316689",
+  "index_page": 0,
+  "name_cl_sptag": "Holiday",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1989061949",
+  "hc_lt_nortag": "713032565",
+  "hc_lt_sptag": "1102415003",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-324199368",
+      "hc_lt_id_sptag": "-1678688045",
+      "id_img": "Vocaloid_774906_crop2608_2045337959",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicI5NOYq67rsZp44adi7ZcF0scX6272UAV3sjla7Ft8qJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicI5NOYq67rsZp44adi7ZcF2gFpeoqPkqiOV6FujhZKlZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-324062098",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "117222074",
+        "-353024394",
+        "376240968",
+        "-1450260536",
+        "1416316689",
+        "-260062140",
+        "-318719419",
+        "1078827483",
+        "-1953811927",
+        "1257535371"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-324062098",
+      "name_cl_nortag": "Vocaloid",
+      "total_img": 1338,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1953811927",
+      "name_cl_sptag": "Gift",
+      "name_parent": "Anime",
+      "total": 16
+    },
+    {
+      "id_sptag": "-318719419",
+      "name_cl_sptag": "Girls Bell",
+      "name_parent": "Anime",
+      "total": 927
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-1450260536",
+      "name_cl_sptag": "Girls Hair Blue",
+      "name_parent": "Anime",
+      "total": 9528
+    },
+    {
+      "id_sptag": "117222074",
+      "name_cl_sptag": "Girls Hats",
+      "name_parent": "Anime",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "1257535371",
+      "name_cl_sptag": "Hatsune Miku",
+      "name_parent": "Anime",
+      "total": 884
+    },
+    {
+      "id_sptag": "1416316689",
+      "name_cl_sptag": "Holiday",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

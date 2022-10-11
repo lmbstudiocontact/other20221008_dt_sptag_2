@@ -1,0 +1,96 @@
+{
+  "id_sptag": "-1159348558",
+  "index_page": 0,
+  "name_cl_sptag": "Hikari Tsuneki",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-85928063",
+  "hc_lt_nortag": "-1646557943",
+  "hc_lt_sptag": "1047740252",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "102463039",
+      "hc_lt_id_sptag": "2145584077",
+      "id_img": "Seiren_790348_crop2608_-4478442",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1vOiJ+oERmxP5a1zA6iMumUa1xR0XZesHDQIGPVTu3pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1vOiJ+oERmxP5a1zA6iMuOerLMH4V2Tp/1ckH7Kuj5ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-884952355",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1159348558",
+        "-1230434216",
+        "-353024394",
+        "1813151526",
+        "-899599709",
+        "1078827483"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-884952355",
+      "name_cl_nortag": "Seiren",
+      "total_img": 6,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-899599709",
+      "name_cl_sptag": "Girls Eyes Black",
+      "name_parent": "Anime",
+      "total": 5810
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1159348558",
+      "name_cl_sptag": "Hikari Tsuneki",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

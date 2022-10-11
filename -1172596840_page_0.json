@@ -1,0 +1,106 @@
+{
+  "id_sptag": "-1172596840",
+  "index_page": 0,
+  "name_cl_sptag": "Haruhiko Ichijo",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-2076825746",
+  "hc_lt_nortag": "-1614861280",
+  "hc_lt_sptag": "-442398275",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "60599980",
+      "hc_lt_id_sptag": "1398866473",
+      "id_img": "MyriadColorsPhantomWorld_788652_crop2608_2099041266",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6b2vR6UaWMVgk5eBQ1T10sb/Pr9tDa00V1Ozcz2advJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6b2vR6UaWMVgk5eBQ1T1082QHnoVKddKOz+pceEyFgpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-270489726",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-1172596840"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1595284288",
+      "hc_lt_id_sptag": "-827421307",
+      "id_img": "MyriadColorsPhantomWorld_675836_crop2608_-1078419779",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuq0pPpgnDnBPM/17rXqiGLznVamnPoxNxIs/k0hZaZpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuq0pPpgnDnBPM/17rXqiGTmcxxCNAsuHi3yAx2lFjl5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-270489726",
+        "-1575827177"
+      ],
+      "lt_id_sptag": [
+        "1005958810",
+        "-1172596840",
+        "-816194090",
+        "1123521986"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-270489726",
+      "name_cl_nortag": "Myriad Colors Phantom World",
+      "total_img": 10,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1575827177",
+      "name_cl_nortag": "Unrefined",
+      "total_img": 824,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1172596840",
+      "name_cl_sptag": "Haruhiko Ichijo",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "1005958810",
+      "name_cl_sptag": "Koito Minase",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "-816194090",
+      "name_cl_sptag": "Mai Kawakami",
+      "name_parent": "Anime",
+      "total": 8
+    },
+    {
+      "id_sptag": "1123521986",
+      "name_cl_sptag": "Reina Izumi",
+      "name_parent": "Anime",
+      "total": 6
+    }
+  ]
+}
