@@ -20,26 +20,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "1047546187",
-      "hc_lt_id_sptag": "1938677810",
-      "id_img": "2018-Hennessey-VelociRaptor-6x6-V1-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbWpxmkoo3YKq4rIcsCm0571sJxgXsSUefhSkS0OtE/pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbWpxmkoo3YKq4rIcsCm05yumogB79dD4HUrBWPVOx/pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-1350301963"
-      ],
-      "lt_id_sptag": [
-        "1623687721",
-        "1482003147",
-        "-1675259857",
-        "-1945968674"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1047546187",
       "hc_lt_id_sptag": "-1651830251",
       "id_img": "2018-Hennessey-VelociRaptor-6x6-V5-1536_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicVAMcj9MMLfvN3TAcV/Tv/QwiZD9gQIITLf2UCkhdXWJVy4706IhQgSYlgwrgVRHU=",
@@ -72,6 +52,26 @@
       ],
       "lt_id_sptag": [
         "-474683441",
+        "1482003147",
+        "-1675259857",
+        "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1047546187",
+      "hc_lt_id_sptag": "1938677810",
+      "id_img": "2018-Hennessey-VelociRaptor-6x6-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbWpxmkoo3YKq4rIcsCm0571sJxgXsSUefhSkS0OtE/pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbWpxmkoo3YKq4rIcsCm05yumogB79dD4HUrBWPVOx/pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-1350301963"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
         "1482003147",
         "-1675259857",
         "-1945968674"

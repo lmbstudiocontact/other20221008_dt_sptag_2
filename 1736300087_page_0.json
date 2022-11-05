@@ -20,6 +20,33 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-386264129",
+      "hc_lt_id_sptag": "1569269850",
+      "id_img": "AzurLane_913565_crop2608_1574680278",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4Cfl4OwMjVrUGoSfuYa0Xw9e5ZVzxAhaGwzyxOdXk6pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4Cfl4OwMjVrUGoSfuYa0XT92vCXucKTH5CXbRvoAW7ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "1415504783"
+      ],
+      "lt_id_sptag": [
+        "-2017515920",
+        "-353024394",
+        "376240968",
+        "1541647243",
+        "1736300087",
+        "1846426926",
+        "-1823594757",
+        "768898453",
+        "1078827483",
+        "-1358769180"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-386264129",
       "hc_lt_id_sptag": "2071098375",
       "id_img": "AzurLane_917345_crop2608_-216816713",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYB6cHqasl81T6sqAiXe1Z5TyS9gooBau9u8KFoeNJ75Vy4706IhQgSYlgwrgVRHU=",
@@ -45,33 +72,6 @@
         "1078827483",
         "491824726",
         "1410951528"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-386264129",
-      "hc_lt_id_sptag": "1569269850",
-      "id_img": "AzurLane_913565_crop2608_1574680278",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4Cfl4OwMjVrUGoSfuYa0Xw9e5ZVzxAhaGwzyxOdXk6pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4Cfl4OwMjVrUGoSfuYa0XT92vCXucKTH5CXbRvoAW7ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1182628656",
-        "1415504783"
-      ],
-      "lt_id_sptag": [
-        "-2017515920",
-        "-353024394",
-        "376240968",
-        "1541647243",
-        "1736300087",
-        "1846426926",
-        "-1823594757",
-        "768898453",
-        "1078827483",
-        "-1358769180"
       ]
     },
     {

@@ -6,9 +6,9 @@
   "total_img": 47,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-377426380",
+  "hc_lt_data_img": "-649241347",
   "hc_lt_nortag": "-236295751",
-  "hc_lt_sptag": "607989246",
+  "hc_lt_sptag": "-170770445",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,6 +17,120 @@
     }
   ],
   "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1144286106",
+      "hc_lt_id_sptag": "-1856193943",
+      "id_img": "MonogatariSeries_334226_crop2608_1767069179",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicc7YQH6s9d3hQkNy4jK1zCfkMcuBUBWN/P3nh963FHG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicc7YQH6s9d3hQkNy4jK1zCg/fiS0aV3na/N4/19dpmm5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "-1574672817",
+        "-1188463425",
+        "-1231684180",
+        "-114953185",
+        "-1332049001",
+        "-12671930",
+        "-618264982",
+        "-2005207632"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1975863479",
+      "hc_lt_id_sptag": "-1944488147",
+      "id_img": "MonogatariSeries_244435_crop2608_2019954941",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjIVrTlpEaNAldaZ+EuJfyFVxd/qoM7ISAKxzgfTi7F5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjIVrTlpEaNAldaZ+EuJfyM12xSq+jw8pm+rc4Cslw/JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1575827177"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "-1188463425",
+        "-1231684180",
+        "-12671930",
+        "-2005207632",
+        "-1021518548"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "574184940",
+      "id_img": "MonogatariSeries_244432_crop2608_1792266810",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexhFODXHg+3HFiuJlOgRcKCXpZRl8EnYbf0P32DRWrx5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexhFODXHg+3HFiuJlOgRcKXHtm+7cx1LKYnzgZ8uISa5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "-1188463425",
+        "-1230434216",
+        "-1231684180",
+        "-353024394",
+        "643795693",
+        "376240968",
+        "-1450260536",
+        "1078827483",
+        "-1332049001",
+        "-12671930",
+        "-1021518548"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "771029373",
+      "id_img": "MonogatariSeries_742137_crop2608_1563661100",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR6fj+ZnroWUZayLe5smKSptUhMYG93+8nzw2oJs5lN5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR6fj+ZnroWUZayLe5smKSj44L7OUQh9QDdBVu28BHj5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "-561045702",
+        "-1574672817",
+        "-1188463425",
+        "-629640325",
+        "1755521698",
+        "-1231684180",
+        "117222074",
+        "-353024394",
+        "-1092439432",
+        "-114953185",
+        "-1686571485",
+        "-1176638482",
+        "1813151526",
+        "-1165766878",
+        "1078827483",
+        "-1332049001",
+        "-12671930",
+        "-618264982",
+        "-1021518548"
+      ]
+    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-17937400",
@@ -80,508 +194,6 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-1674903429",
-      "id_img": "MonogatariSeries_775910_crop2608_990170940",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCeg9REccVSiGHbH+RfWWDTukQiwyWzdt1Ftk/LCVqtJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCeg9REccVSiGHbH+RfWWDUUraFHH24c1jhXGqxwTog5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1231684180",
-        "117222074",
-        "643795693",
-        "376240968",
-        "1508952095",
-        "1078827483",
-        "1410951528"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "1467331271",
-      "id_img": "MonogatariSeries_742319_crop2608_-921990177",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVCd2VetR1SCqrsy2ptsAt+wib6jFbNxkzeo/+EfO3BpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVCd2VetR1SCqrsy2ptsAteY0SPgnouS7x9BJV+tv0dpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1231684180",
-        "-353024394",
-        "643795693",
-        "376240968",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1144286106",
-      "hc_lt_id_sptag": "-1856193943",
-      "id_img": "MonogatariSeries_334226_crop2608_1189118606",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVZhBFq1JZzntrnt3uiWKPQKT3GUvsmThYEONyZJjxjZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVZhBFq1JZzntrnt3uiWKP9BTyT8SCEm2xKLxIZ1x5YZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "-1574672817",
-        "-1188463425",
-        "-1231684180",
-        "-114953185",
-        "-1332049001",
-        "-12671930",
-        "-618264982",
-        "-2005207632"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "1826641344",
-      "id_img": "MonogatariSeries_244432_crop2608_-1950210344",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqy1pFdq9Vw/yVanubApb0JrKcKQ37sIZDAk3JGHvWi5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqy1pFdq9Vw/yVanubApb05VlIXhjjwNjoRJF1DhKOL5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "-561045702",
-        "-2017515920",
-        "1545739930",
-        "-1188463425",
-        "-1230434216",
-        "-111108595",
-        "-1231684180",
-        "-353024394",
-        "-1686571485",
-        "-899599709",
-        "1078827483",
-        "-1332049001",
-        "-12671930",
-        "1410951528",
-        "-1021518548"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "533291576",
-      "hc_lt_id_sptag": "-1581520434",
-      "id_img": "MonogatariSeries_790634_crop2608_940831458",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicN1ZpEkamFxKjcER/01/4IPGl+/r9Sssv2TDTiJ1vX/JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicN1ZpEkamFxKjcER/01/4I4bLHf9E/SnBRtbgP/MeQFJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "1728965817"
-      ],
-      "lt_id_sptag": [
-        "280810995",
-        "-1231684180",
-        "-1274780646",
-        "-1331370225",
-        "-2005207632"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "183194197",
-      "id_img": "MonogatariSeries_826643_crop2608_-1557209774",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6qraAXRcsBsF2KIwhoCBYxjCeoNCYOQmSThuR7tZGtpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6qraAXRcsBsF2KIwhoCBYuIQWZOp+GtlOrZkEbyAGoZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1230434216",
-        "-1231684180",
-        "-353024394",
-        "-1092439432",
-        "643795693",
-        "376240968",
-        "-1176638482",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "877371414",
-      "id_img": "MonogatariSeries_827006_crop2608_1880367840",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQY+ii/ack9lcRhafUHlcNviRKD4OcpubyvKHtXzLVQJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQY+ii/ack9lcRhafUHlcNBB9IYG7wmu37If0kz43/g5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1915687819",
-        "-1216236529",
-        "-1231684180",
-        "-353024394",
-        "-1686571485",
-        "1541647243",
-        "680065126",
-        "1813151526",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "1467331271",
-      "id_img": "MonogatariSeries_746297_crop2608_-478064432",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcyvyv7TqTof/lpZlAcM1OojL/hInV8kVdeB2dpARJiJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcyvyv7TqTof/lpZlAcM1O/KrZ7pWzu9PqDfElMzuY5pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1231684180",
-        "-353024394",
-        "643795693",
-        "376240968",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-1427718054",
-      "id_img": "MonogatariSeries_135610_crop2608_1680833513",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicjMXHTuwmGMo5kenGVf/10g2iT2hzKYHm1aE3uSo6p6ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicjMXHTuwmGMo5kenGVf/10YtyE6hoJjBXiYfqZm8wJJpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1216236529",
-        "-1231684180",
-        "-353024394",
-        "-1686571485",
-        "1541647243",
-        "680065126",
-        "1813151526",
-        "-899599709",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "1276886904",
-      "id_img": "MonogatariSeries_826687_crop2608_-1864106542",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAMtxBXSjlhh47qOud4xqFTjiwqsFeb7rWxXgeyKnkI5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAMtxBXSjlhh47qOud4xqFX7+izjyFmLVPHMq9ity8E5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1230434216",
-        "-1231684180",
-        "-353024394",
-        "538504409",
-        "-1450260536",
-        "-1823594757",
-        "-899599709",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-247979547",
-      "id_img": "MonogatariSeries_724910_crop2608_1851657990",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccze9KNX2PiZLCfJboMD/DwU4RzJf0Ihu2KXRIl4j2iZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccze9KNX2PiZLCfJboMD/DVcZlY+BTRnWFfSH8PDrPkpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1230434216",
-        "-1231684180",
-        "-353024394",
-        "-1686571485",
-        "-899599709",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1144286106",
-      "hc_lt_id_sptag": "-273562459",
-      "id_img": "MonogatariSeries_775908_crop2608_195805816",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMqCaqiy+biIxF+PcI+10thBGx2GmuAAAhOzCyAW/sspVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMqCaqiy+biIxF+PcI+10t7MrwkIOCd9Qkgh2lcmpju5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "2061868778",
-        "-1574672817",
-        "-1188463425",
-        "-1231684180",
-        "-114953185",
-        "-1332049001",
-        "-12671930",
-        "-2005207632",
-        "-1021518548",
-        "433161879"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "929131876",
-      "id_img": "MonogatariSeries_827175_crop2608_752605067",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5tSkl2xoLUdXmFsyqILS7NAPLnBmoasYefK56hQotlJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5tSkl2xoLUdXmFsyqILS7AwULLzRsQDKJ/MD5lr+Bt5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1231684180",
-        "-353024394",
-        "643795693",
-        "376240968",
-        "1541647243",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-247979547",
-      "id_img": "MonogatariSeries_742140_crop2608_-533950207",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemME+HeCSQERW/2bhhjfvWCjcm1FLbng4dyuk9To+J2pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemME+HeCSQERW/2bhhjfvWQql+Ejtte2FQwh5Byt4CNJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1230434216",
-        "-1231684180",
-        "-353024394",
-        "-1686571485",
-        "-899599709",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-1602269263",
-      "id_img": "MonogatariSeries_120082_crop2608_-87585484",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie+hEZTJ0mnRf4fRwB+gdSDO7DCt/buJuwonh9ZyxFQ8ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie+hEZTJ0mnRf4fRwB+gdSDvAdXQjlpbSCFJjj/T7byjpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1231684180",
-        "-353024394",
-        "643795693",
-        "1541647243",
-        "-899599709"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "664514498",
-      "id_img": "MonogatariSeries_73120_crop2608_577618302",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFoVMX+8XJ+qnXn+g2+9zeEjWPWNxwd6I0gbaPAbUnnpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFoVMX+8XJ+qnXn+g2+9ze26Qo7LglBLOVpTbqlorIEpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1216236529",
-        "280810995",
-        "-1231684180",
-        "-353024394",
-        "376240968",
-        "-1450260536",
-        "680065126",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1144286106",
-      "hc_lt_id_sptag": "-273562459",
-      "id_img": "MonogatariSeries_775908_crop2608_-739285939",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOM1fnLqRp7SGXawvuqMsvRMAAnzLz8Xm9lf534SU3oJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOM1fnLqRp7SGXawvuqMsvkRSx2J1mfxtRuoJUVeLuwpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "2061868778",
-        "-1574672817",
-        "-1188463425",
-        "-1231684180",
-        "-114953185",
-        "-1332049001",
-        "-12671930",
-        "-2005207632",
-        "-1021518548",
-        "433161879"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "1581049412",
-      "id_img": "MonogatariSeries_126315_crop2608_-426219689",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex82EMLc7v2P6JgCQLf10mty79HGUeU9hl107deSUGzZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex82EMLc7v2P6JgCQLf10m7CIxHF2YuePcUmBRNgsR1ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "-1915687819",
-        "1545739930",
-        "-1188463425",
-        "-1230434216",
-        "-1231684180",
-        "117222074",
-        "-353024394",
-        "-1450260536",
-        "1813151526",
-        "1078827483",
-        "-1332049001",
-        "1410951528",
-        "-2005207632"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-1526400733",
-      "id_img": "MonogatariSeries_244432_crop2608_-1367276915",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie2XOJF+4PdeIYZZhn+xhTsM3BTr8sPVQwwwB578VurNJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie2XOJF+4PdeIYZZhn+xhTspX4wMl++mAAtvWjaqBR10JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "1545739930",
-        "-1188463425",
-        "-1230434216",
-        "-1231684180",
-        "-1450260536",
-        "1078827483",
-        "-1332049001",
-        "-12671930",
-        "1410951528",
-        "-1021518548"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-1689777147",
-      "id_img": "MonogatariSeries_455315_crop2608_1285772534",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3A+gkGda9jL5+mozT5w3hXGmLfLNGZSHjO5iSpQP4N5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3A+gkGda9jL5+mozT5w3hnz6KDwz7FaTJpS47pbG/9JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "750914149",
-        "-729883027",
-        "-1231684180",
-        "-353024394",
-        "643795693",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
       "hc_lt_id_sptag": "-2042052632",
       "id_img": "MonogatariSeries_715278_crop2608_-540988924",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRBNlnQwgGXxlK6Sg7hMCfmbfMCxjkQfNCG0MN9w7U7pVy4706IhQgSYlgwrgVRHU=",
@@ -607,6 +219,29 @@
         "-12671930",
         "467732324",
         "-2005207632"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-247979547",
+      "id_img": "MonogatariSeries_742140_crop2608_-533950207",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemME+HeCSQERW/2bhhjfvWCjcm1FLbng4dyuk9To+J2pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemME+HeCSQERW/2bhhjfvWQql+Ejtte2FQwh5Byt4CNJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-1231684180",
+        "-353024394",
+        "-1686571485",
+        "-899599709",
+        "1078827483"
       ]
     },
     {
@@ -643,11 +278,76 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "1467331271",
+      "id_img": "MonogatariSeries_746297_crop2608_-478064432",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcyvyv7TqTof/lpZlAcM1OojL/hInV8kVdeB2dpARJiJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcyvyv7TqTof/lpZlAcM1O/KrZ7pWzu9PqDfElMzuY5pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1231684180",
+        "-353024394",
+        "643795693",
+        "376240968",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "1467331271",
+      "id_img": "MonogatariSeries_742319_crop2608_-921990177",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVCd2VetR1SCqrsy2ptsAt+wib6jFbNxkzeo/+EfO3BpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVCd2VetR1SCqrsy2ptsAteY0SPgnouS7x9BJV+tv0dpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1231684180",
+        "-353024394",
+        "643795693",
+        "376240968",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1144286106",
+      "hc_lt_id_sptag": "-884157737",
+      "id_img": "MonogatariSeries_455221_crop2608_-275595594",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7syTSDMe2hCxwbByLDysHn8q5+bfYaTHyVPDlsBK395Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7syTSDMe2hCxwbByLDysHgJhKCgcm8U3sEV4VhAQBsJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "-1188463425",
+        "-1231684180",
+        "-12671930",
+        "-1021518548"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1975863479",
-      "hc_lt_id_sptag": "-1944488147",
-      "id_img": "MonogatariSeries_244435_crop2608_2019954941",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjIVrTlpEaNAldaZ+EuJfyFVxd/qoM7ISAKxzgfTi7F5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjIVrTlpEaNAldaZ+EuJfyM12xSq+jw8pm+rc4Cslw/JVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "946486949",
+      "id_img": "MonogatariSeries_126315_crop2608_-1179568594",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFkbjwdkmcX0Qk9Y2Xro8csaSvMG4kX/kvGFKxD4z6/pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFkbjwdkmcX0Qk9Y2Xro8c4UQYMw5YCE6zbVKkzoRJhZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -659,97 +359,8 @@
         "235892562",
         "-1188463425",
         "-1231684180",
-        "-12671930",
-        "-2005207632",
-        "-1021518548"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "10110337",
-      "id_img": "MonogatariSeries_826877_crop2608_1353047029",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifd+SPFH5zMcNGppsKs61bnQtrH9RhPpkGZ3q0u6dtBfJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifd+SPFH5zMcNGppsKs61bn5zz10IoKxRfQshvLwi3CYZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1231684180",
-        "-353024394",
-        "-1686571485",
-        "1541647243",
-        "-899599709",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-1027338047",
-      "id_img": "MonogatariSeries_715278_crop2608_-2105086399",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6FsqEvVbEsdA8EMykaA9LvTD9nmL+XcUaCO05rQzP3JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6FsqEvVbEsdA8EMykaA9LTRJL0t7mmTA9d8rgyST0o5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "638504695",
-        "-729883027",
-        "-1231684180",
-        "-442593670",
-        "-353024394",
-        "643795693",
-        "-1450260536",
-        "1078827483",
         "-1332049001",
-        "-12671930",
         "-2005207632"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "154161338",
-      "id_img": "MonogatariSeries_913735_crop2608_-1841332169",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp51sEUJU6wNTXuukaQ1+mVIkz9eot0i53Pw28iq3eUJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp51sEUJU6wNTXuukaQ1+mnyKMlmtc6h/v4kmeCL7oO5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "-1915687819",
-        "2061868778",
-        "-1574672817",
-        "-1188463425",
-        "-1230434216",
-        "-1231684180",
-        "-353024394",
-        "643795693",
-        "376240968",
-        "-114953185",
-        "-1450260536",
-        "1508952095",
-        "1078827483",
-        "-1332049001",
-        "-12671930",
-        "-2005207632",
-        "-1021518548",
-        "433161879"
       ]
     },
     {
@@ -788,10 +399,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "965731298",
-      "id_img": "MonogatariSeries_600298_crop2608_-2086268684",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifII5ewV7DuzVMJDo4Z1a2MbcIdzpXVG9I+9AMMI2Tv/5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifII5ewV7DuzVMJDo4Z1a2MLe4rMuvjr4akg3XBXWhKS5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "877371414",
+      "id_img": "MonogatariSeries_827006_crop2608_1880367840",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQY+ii/ack9lcRhafUHlcNviRKD4OcpubyvKHtXzLVQJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQY+ii/ack9lcRhafUHlcNBB9IYG7wmu37If0kz43/g5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -800,22 +411,51 @@
         "-1182628656"
       ],
       "lt_id_sptag": [
-        "280810995",
-        "-1230434216",
+        "-1915687819",
+        "-1216236529",
         "-1231684180",
         "-353024394",
-        "643795693",
-        "376240968",
+        "-1686571485",
+        "1541647243",
+        "680065126",
+        "1813151526",
         "1078827483"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1144286106",
+      "hc_lt_id_sptag": "-273562459",
+      "id_img": "MonogatariSeries_775908_crop2608_-739285939",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOM1fnLqRp7SGXawvuqMsvRMAAnzLz8Xm9lf534SU3oJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOM1fnLqRp7SGXawvuqMsvkRSx2J1mfxtRuoJUVeLuwpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "2061868778",
+        "-1574672817",
+        "-1188463425",
+        "-1231684180",
+        "-114953185",
+        "-1332049001",
+        "-12671930",
+        "-2005207632",
+        "-1021518548",
+        "433161879"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "574184940",
-      "id_img": "MonogatariSeries_244432_crop2608_1792266810",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexhFODXHg+3HFiuJlOgRcKCXpZRl8EnYbf0P32DRWrx5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexhFODXHg+3HFiuJlOgRcKXHtm+7cx1LKYnzgZ8uISa5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "1826641344",
+      "id_img": "MonogatariSeries_244432_crop2608_-1950210344",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqy1pFdq9Vw/yVanubApb0JrKcKQ37sIZDAk3JGHvWi5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqy1pFdq9Vw/yVanubApb05VlIXhjjwNjoRJF1DhKOL5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -825,26 +465,53 @@
       ],
       "lt_id_sptag": [
         "235892562",
+        "-561045702",
+        "-2017515920",
+        "1545739930",
         "-1188463425",
         "-1230434216",
+        "-111108595",
         "-1231684180",
         "-353024394",
-        "643795693",
-        "376240968",
-        "-1450260536",
+        "-1686571485",
+        "-899599709",
         "1078827483",
         "-1332049001",
         "-12671930",
+        "1410951528",
         "-1021518548"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "929131876",
+      "id_img": "MonogatariSeries_827175_crop2608_752605067",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5tSkl2xoLUdXmFsyqILS7NAPLnBmoasYefK56hQotlJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5tSkl2xoLUdXmFsyqILS7AwULLzRsQDKJ/MD5lr+Bt5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1231684180",
+        "-353024394",
+        "643795693",
+        "376240968",
+        "1541647243",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1975863479",
-      "hc_lt_id_sptag": "229141408",
-      "id_img": "MonogatariSeries_715278_crop2608_1286076401",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKsyRCwojo0ZhhuA47irXvW+46HZWUIUSh8IbRD+BnFZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKsyRCwojo0ZhhuA47irXv3K0vCfd8+jka1qaGLxx/LJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "946486949",
+      "id_img": "MonogatariSeries_126315_crop2608_1791336859",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuyhE//4ST/HvKLlj8mLpAyoXuiUDDGxGU5GacdWDL7ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuyhE//4ST/HvKLlj8mLpAa49tZX5LGmxzdG4SfYuTmJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -854,11 +521,137 @@
       ],
       "lt_id_sptag": [
         "235892562",
-        "638504695",
+        "-1188463425",
         "-1231684180",
         "-1332049001",
-        "-12671930",
         "-2005207632"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-1230832607",
+      "id_img": "MonogatariSeries_126308_crop2608_-1554218990",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBXA/nbX9cXgt6CJpVTObkX+f4V/gNinzfpG22vOVHN5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBXA/nbX9cXgt6CJpVTObkAPHw33Xs992ZVgqirDMrsZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "1545739930",
+        "280810995",
+        "-1188463425",
+        "-1231684180",
+        "-353024394",
+        "-1686571485",
+        "-1450260536",
+        "1078827483",
+        "-1332049001",
+        "-12671930",
+        "361302046",
+        "-1021518548"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-1674903429",
+      "id_img": "MonogatariSeries_775910_crop2608_990170940",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCeg9REccVSiGHbH+RfWWDTukQiwyWzdt1Ftk/LCVqtJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCeg9REccVSiGHbH+RfWWDUUraFHH24c1jhXGqxwTog5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1231684180",
+        "117222074",
+        "643795693",
+        "376240968",
+        "1508952095",
+        "1078827483",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-1602269263",
+      "id_img": "MonogatariSeries_120082_crop2608_-87585484",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie+hEZTJ0mnRf4fRwB+gdSDO7DCt/buJuwonh9ZyxFQ8ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie+hEZTJ0mnRf4fRwB+gdSDvAdXQjlpbSCFJjj/T7byjpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1231684180",
+        "-353024394",
+        "643795693",
+        "1541647243",
+        "-899599709"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1144286106",
+      "hc_lt_id_sptag": "1365671468",
+      "id_img": "MonogatariSeries_455212_crop2608_1742490392",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidb9z53ziIVv9g6lDdAF3SxFM7Lrd6pjmZjYIRmkthC4ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidb9z53ziIVv9g6lDdAF3SxLHuWmQmB9pqX4ND/ZovcBpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "-1574672817",
+        "-1188463425",
+        "-1231684180",
+        "-114953185",
+        "-1332049001",
+        "-12671930",
+        "-2005207632",
+        "-1021518548"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-1427718054",
+      "id_img": "MonogatariSeries_135610_crop2608_1680833513",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicjMXHTuwmGMo5kenGVf/10g2iT2hzKYHm1aE3uSo6p6ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicjMXHTuwmGMo5kenGVf/10YtyE6hoJjBXiYfqZm8wJJpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1216236529",
+        "-1231684180",
+        "-353024394",
+        "-1686571485",
+        "1541647243",
+        "680065126",
+        "1813151526",
+        "-899599709",
+        "1078827483"
       ]
     },
     {
@@ -883,6 +676,214 @@
         "643795693",
         "-260062140",
         "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-1689777147",
+      "id_img": "MonogatariSeries_455315_crop2608_1285772534",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3A+gkGda9jL5+mozT5w3hXGmLfLNGZSHjO5iSpQP4N5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3A+gkGda9jL5+mozT5w3hnz6KDwz7FaTJpS47pbG/9JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "750914149",
+        "-729883027",
+        "-1231684180",
+        "-353024394",
+        "643795693",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1144286106",
+      "hc_lt_id_sptag": "-273562459",
+      "id_img": "MonogatariSeries_775908_crop2608_195805816",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMqCaqiy+biIxF+PcI+10thBGx2GmuAAAhOzCyAW/sspVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMqCaqiy+biIxF+PcI+10t7MrwkIOCd9Qkgh2lcmpju5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "2061868778",
+        "-1574672817",
+        "-1188463425",
+        "-1231684180",
+        "-114953185",
+        "-1332049001",
+        "-12671930",
+        "-2005207632",
+        "-1021518548",
+        "433161879"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-1210175035",
+      "id_img": "MonogatariSeries_826682_crop2608_-94554075",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbk7oyuFlpjiR0cC8U2ITtpbmpl7GgzUWzVKXMob2JmZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbk7oyuFlpjiR0cC8U2ITt+HBr2YX6LLQeczqmuSMMN5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1231684180",
+        "643795693",
+        "376240968",
+        "1078827483",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "473566045",
+      "id_img": "MonogatariSeries_126308_crop2608_844519923",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqGdjcRamkNDKIAq0PLH/LCzk3WrvTHA8zuXpmeE+q/ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqGdjcRamkNDKIAq0PLH/LHTbZ04Cl8b3MPrrPj8lgE5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "-561045702",
+        "-2017515920",
+        "1545739930",
+        "280810995",
+        "-1188463425",
+        "-1230434216",
+        "-1231684180",
+        "-353024394",
+        "-1686571485",
+        "-899599709",
+        "1078827483",
+        "-1332049001",
+        "-12671930",
+        "361302046",
+        "-1021518548"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-433637913",
+      "id_img": "MonogatariSeries_742137_crop2608_-1285445095",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVQLwDfP0R43Ivwvv4+x8gP+UT2E0WbhCXvUlzwENVmpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVQLwDfP0R43Ivwvv4+x8gkSKBRaUeBex6GdpGMa95TZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "235892562",
+        "-1574672817",
+        "-1188463425",
+        "-629640325",
+        "1755521698",
+        "-1231684180",
+        "-353024394",
+        "643795693",
+        "376240968",
+        "-114953185",
+        "-1686571485",
+        "1846426926",
+        "-1823594757",
+        "1078827483",
+        "-1332049001",
+        "-12671930",
+        "-618264982",
+        "-1021518548"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "1581049412",
+      "id_img": "MonogatariSeries_126315_crop2608_-426219689",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex82EMLc7v2P6JgCQLf10mty79HGUeU9hl107deSUGzZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex82EMLc7v2P6JgCQLf10m7CIxHF2YuePcUmBRNgsR1ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "-1915687819",
+        "1545739930",
+        "-1188463425",
+        "-1230434216",
+        "-1231684180",
+        "117222074",
+        "-353024394",
+        "-1450260536",
+        "1813151526",
+        "1078827483",
+        "-1332049001",
+        "1410951528",
+        "-2005207632"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "154161338",
+      "id_img": "MonogatariSeries_913735_crop2608_-1841332169",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp51sEUJU6wNTXuukaQ1+mVIkz9eot0i53Pw28iq3eUJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp51sEUJU6wNTXuukaQ1+mnyKMlmtc6h/v4kmeCL7oO5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "-1915687819",
+        "2061868778",
+        "-1574672817",
+        "-1188463425",
+        "-1230434216",
+        "-1231684180",
+        "-353024394",
+        "643795693",
+        "376240968",
+        "-114953185",
+        "-1450260536",
+        "1508952095",
+        "1078827483",
+        "-1332049001",
+        "-12671930",
+        "-2005207632",
+        "-1021518548",
+        "433161879"
       ]
     },
     {
@@ -940,175 +941,6 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1144286106",
-      "hc_lt_id_sptag": "1365671468",
-      "id_img": "MonogatariSeries_455212_crop2608_1742490392",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidb9z53ziIVv9g6lDdAF3SxFM7Lrd6pjmZjYIRmkthC4ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidb9z53ziIVv9g6lDdAF3SxLHuWmQmB9pqX4ND/ZovcBpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "-1574672817",
-        "-1188463425",
-        "-1231684180",
-        "-114953185",
-        "-1332049001",
-        "-12671930",
-        "-2005207632",
-        "-1021518548"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1975863479",
-      "hc_lt_id_sptag": "946486949",
-      "id_img": "MonogatariSeries_126315_crop2608_1791336859",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuyhE//4ST/HvKLlj8mLpAyoXuiUDDGxGU5GacdWDL7ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuyhE//4ST/HvKLlj8mLpAa49tZX5LGmxzdG4SfYuTmJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1575827177"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "-1188463425",
-        "-1231684180",
-        "-1332049001",
-        "-2005207632"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "473566045",
-      "id_img": "MonogatariSeries_126308_crop2608_844519923",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqGdjcRamkNDKIAq0PLH/LCzk3WrvTHA8zuXpmeE+q/ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqGdjcRamkNDKIAq0PLH/LHTbZ04Cl8b3MPrrPj8lgE5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "-561045702",
-        "-2017515920",
-        "1545739930",
-        "280810995",
-        "-1188463425",
-        "-1230434216",
-        "-1231684180",
-        "-353024394",
-        "-1686571485",
-        "-899599709",
-        "1078827483",
-        "-1332049001",
-        "-12671930",
-        "361302046",
-        "-1021518548"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-1230832607",
-      "id_img": "MonogatariSeries_126308_crop2608_-1554218990",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBXA/nbX9cXgt6CJpVTObkX+f4V/gNinzfpG22vOVHN5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBXA/nbX9cXgt6CJpVTObkAPHw33Xs992ZVgqirDMrsZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "1545739930",
-        "280810995",
-        "-1188463425",
-        "-1231684180",
-        "-353024394",
-        "-1686571485",
-        "-1450260536",
-        "1078827483",
-        "-1332049001",
-        "-12671930",
-        "361302046",
-        "-1021518548"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "771029373",
-      "id_img": "MonogatariSeries_742137_crop2608_1563661100",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR6fj+ZnroWUZayLe5smKSptUhMYG93+8nzw2oJs5lN5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR6fj+ZnroWUZayLe5smKSj44L7OUQh9QDdBVu28BHj5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "-561045702",
-        "-1574672817",
-        "-1188463425",
-        "-629640325",
-        "1755521698",
-        "-1231684180",
-        "117222074",
-        "-353024394",
-        "-1092439432",
-        "-114953185",
-        "-1686571485",
-        "-1176638482",
-        "1813151526",
-        "-1165766878",
-        "1078827483",
-        "-1332049001",
-        "-12671930",
-        "-618264982",
-        "-1021518548"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-1210175035",
-      "id_img": "MonogatariSeries_826682_crop2608_-94554075",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbk7oyuFlpjiR0cC8U2ITtpbmpl7GgzUWzVKXMob2JmZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbk7oyuFlpjiR0cC8U2ITt+HBr2YX6LLQeczqmuSMMN5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1231684180",
-        "643795693",
-        "376240968",
-        "1078827483",
-        "1410951528"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-17937400",
       "hc_lt_id_sptag": "-945867006",
       "id_img": "MonogatariSeries_455319_crop2608_763760864",
@@ -1142,11 +974,34 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "533291576",
+      "hc_lt_id_sptag": "1043003316",
+      "id_img": "MonogatariSeries_790634_crop2608_940831458",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicN1ZpEkamFxKjcER/01/4IPGl+/r9Sssv2TDTiJ1vX/JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicN1ZpEkamFxKjcER/01/4I4bLHf9E/SnBRtbgP/MeQFJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "280810995",
+        "-1231684180",
+        "1728965817",
+        "-1274780646",
+        "-1331370225",
+        "-2005207632"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-17937400",
-      "hc_lt_id_sptag": "-433637913",
-      "id_img": "MonogatariSeries_742137_crop2608_-1285445095",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVQLwDfP0R43Ivwvv4+x8gP+UT2E0WbhCXvUlzwENVmpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVQLwDfP0R43Ivwvv4+x8gkSKBRaUeBex6GdpGMa95TZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "10110337",
+      "id_img": "MonogatariSeries_826877_crop2608_1353047029",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifd+SPFH5zMcNGppsKs61bnQtrH9RhPpkGZ3q0u6dtBfJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifd+SPFH5zMcNGppsKs61bn5zz10IoKxRfQshvLwi3CYZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -1155,25 +1010,37 @@
         "-1182628656"
       ],
       "lt_id_sptag": [
-        "1271392973",
-        "235892562",
-        "-1574672817",
-        "-1188463425",
-        "-629640325",
-        "1755521698",
         "-1231684180",
         "-353024394",
+        "-1686571485",
+        "1541647243",
+        "-899599709",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "183194197",
+      "id_img": "MonogatariSeries_826643_crop2608_-1557209774",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6qraAXRcsBsF2KIwhoCBYxjCeoNCYOQmSThuR7tZGtpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6qraAXRcsBsF2KIwhoCBYuIQWZOp+GtlOrZkEbyAGoZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-1231684180",
+        "-353024394",
+        "-1092439432",
         "643795693",
         "376240968",
-        "-114953185",
-        "-1686571485",
-        "1846426926",
-        "-1823594757",
-        "1078827483",
-        "-1332049001",
-        "-12671930",
-        "-618264982",
-        "-1021518548"
+        "-1176638482",
+        "1078827483"
       ]
     },
     {
@@ -1213,10 +1080,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1975863479",
-      "hc_lt_id_sptag": "946486949",
-      "id_img": "MonogatariSeries_126315_crop2608_-1179568594",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFkbjwdkmcX0Qk9Y2Xro8csaSvMG4kX/kvGFKxD4z6/pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFkbjwdkmcX0Qk9Y2Xro8c4UQYMw5YCE6zbVKkzoRJhZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "229141408",
+      "id_img": "MonogatariSeries_715278_crop2608_1286076401",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKsyRCwojo0ZhhuA47irXvW+46HZWUIUSh8IbRD+BnFZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKsyRCwojo0ZhhuA47irXv3K0vCfd8+jka1qaGLxx/LJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -1226,40 +1093,126 @@
       ],
       "lt_id_sptag": [
         "235892562",
-        "-1188463425",
+        "638504695",
         "-1231684180",
         "-1332049001",
+        "-12671930",
+        "-2005207632"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-1526400733",
+      "id_img": "MonogatariSeries_244432_crop2608_-1367276915",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie2XOJF+4PdeIYZZhn+xhTsM3BTr8sPVQwwwB578VurNJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie2XOJF+4PdeIYZZhn+xhTspX4wMl++mAAtvWjaqBR10JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "1545739930",
+        "-1188463425",
+        "-1230434216",
+        "-1231684180",
+        "-1450260536",
+        "1078827483",
+        "-1332049001",
+        "-12671930",
+        "1410951528",
+        "-1021518548"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "664514498",
+      "id_img": "MonogatariSeries_73120_crop2608_577618302",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFoVMX+8XJ+qnXn+g2+9zeEjWPWNxwd6I0gbaPAbUnnpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFoVMX+8XJ+qnXn+g2+9ze26Qo7LglBLOVpTbqlorIEpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1216236529",
+        "280810995",
+        "-1231684180",
+        "-353024394",
+        "376240968",
+        "-1450260536",
+        "680065126",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "965731298",
+      "id_img": "MonogatariSeries_600298_crop2608_-2086268684",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifII5ewV7DuzVMJDo4Z1a2MbcIdzpXVG9I+9AMMI2Tv/5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifII5ewV7DuzVMJDo4Z1a2MLe4rMuvjr4akg3XBXWhKS5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "280810995",
+        "-1230434216",
+        "-1231684180",
+        "-353024394",
+        "643795693",
+        "376240968",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-1027338047",
+      "id_img": "MonogatariSeries_715278_crop2608_-2105086399",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6FsqEvVbEsdA8EMykaA9LvTD9nmL+XcUaCO05rQzP3JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6FsqEvVbEsdA8EMykaA9LTRJL0t7mmTA9d8rgyST0o5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "235892562",
+        "638504695",
+        "-729883027",
+        "-1231684180",
+        "-442593670",
+        "-353024394",
+        "643795693",
+        "-1450260536",
+        "1078827483",
+        "-1332049001",
+        "-12671930",
         "-2005207632"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1144286106",
-      "hc_lt_id_sptag": "-884157737",
-      "id_img": "MonogatariSeries_455221_crop2608_-275595594",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7syTSDMe2hCxwbByLDysHn8q5+bfYaTHyVPDlsBK395Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7syTSDMe2hCxwbByLDysHgJhKCgcm8U3sEV4VhAQBsJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1775821295"
-      ],
-      "lt_id_sptag": [
-        "235892562",
-        "-1188463425",
-        "-1231684180",
-        "-12671930",
-        "-1021518548"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1144286106",
       "hc_lt_id_sptag": "-1856193943",
-      "id_img": "MonogatariSeries_334226_crop2608_1767069179",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicc7YQH6s9d3hQkNy4jK1zCfkMcuBUBWN/P3nh963FHG5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicc7YQH6s9d3hQkNy4jK1zCg/fiS0aV3na/N4/19dpmm5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "MonogatariSeries_334226_crop2608_1189118606",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVZhBFq1JZzntrnt3uiWKPQKT3GUvsmThYEONyZJjxjZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVZhBFq1JZzntrnt3uiWKP9BTyT8SCEm2xKLxIZ1x5YZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -1276,6 +1229,54 @@
         "-12671930",
         "-618264982",
         "-2005207632"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "-247979547",
+      "id_img": "MonogatariSeries_724910_crop2608_1851657990",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccze9KNX2PiZLCfJboMD/DwU4RzJf0Ihu2KXRIl4j2iZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccze9KNX2PiZLCfJboMD/DVcZlY+BTRnWFfSH8PDrPkpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-1231684180",
+        "-353024394",
+        "-1686571485",
+        "-899599709",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-17937400",
+      "hc_lt_id_sptag": "1276886904",
+      "id_img": "MonogatariSeries_826687_crop2608_-1864106542",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAMtxBXSjlhh47qOud4xqFTjiwqsFeb7rWxXgeyKnkI5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAMtxBXSjlhh47qOud4xqFX7+izjyFmLVPHMq9ity8E5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1775821295",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-1231684180",
+        "-353024394",
+        "538504409",
+        "-1450260536",
+        "-1823594757",
+        "-899599709",
+        "1078827483"
       ]
     }
   ],
@@ -1323,6 +1324,12 @@
       "name_cl_sptag": "Black Hanekawa",
       "name_parent": "Anime",
       "total": 11
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "-1176638482",

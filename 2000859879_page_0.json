@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-964155803",
+  "hc_lt_data_img": "1771920763",
   "hc_lt_nortag": "796886029",
-  "hc_lt_sptag": "-201535179",
+  "hc_lt_sptag": "1746871907",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,31 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-446660093",
-      "hc_lt_id_sptag": "1758727442",
-      "id_img": "Haikyu_679685_crop2608_659490728",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbSYN6bqAEayrhKTPYVo8/xRA6B+6hK7h09OCIk7VbqZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbSYN6bqAEayrhKTPYVo8/uXL9eBYtDDJeXxF8o6GyDZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1525685264"
-      ],
-      "lt_id_sptag": [
-        "-1536950006",
-        "2000859879",
-        "2035356220",
-        "-510858498",
-        "-13954050",
-        "-67611207",
-        "2137211747"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-446660093",
-      "hc_lt_id_sptag": "1758727442",
+      "hc_lt_id_sptag": "287360709",
       "id_img": "Haikyu_679685_crop2608_-399180651",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqj3b1Sn6iLFo94LQTNiSyClyjMWd5L80RdxaN1OQxMpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqj3b1Sn6iLFo94LQTNiSyR3jOdYrOuyZVCBiguAPNy5Vy4706IhQgSYlgwrgVRHU=",
@@ -56,6 +32,7 @@
         "-1525685264"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-1536950006",
         "2000859879",
         "2035356220",
@@ -68,7 +45,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "234930528",
-      "hc_lt_id_sptag": "1758727442",
+      "hc_lt_id_sptag": "-848143468",
       "id_img": "Haikyu_679685_crop2608_750044445",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifF1wn/OYUXHiPwIiZ2z63/yOTX1CRI2GVIrToKMRsA8pVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifF1wn/OYUXHiPwIiZ2z63/B06r6cLCj3xFl9zjpdUXEZVy4706IhQgSYlgwrgVRHU=",
@@ -80,6 +57,32 @@
         "-1525685264"
       ],
       "lt_id_sptag": [
+        "-1536950006",
+        "2000859879",
+        "2035356220",
+        "-510858498",
+        "1728965817",
+        "-13954050",
+        "-67611207",
+        "2137211747"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-446660093",
+      "hc_lt_id_sptag": "287360709",
+      "id_img": "Haikyu_679685_crop2608_659490728",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbSYN6bqAEayrhKTPYVo8/xRA6B+6hK7h09OCIk7VbqZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbSYN6bqAEayrhKTPYVo8/uXL9eBYtDDJeXxF8o6GyDZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1525685264"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
         "-1536950006",
         "2000859879",
         "2035356220",
@@ -122,6 +125,18 @@
       "name_cl_sptag": "Blush",
       "name_parent": "Anime",
       "total": 893
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "2000859879",

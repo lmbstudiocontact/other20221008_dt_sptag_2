@@ -6,9 +6,9 @@
   "total_img": 8,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1072720994",
+  "hc_lt_data_img": "2083481507",
   "hc_lt_nortag": "-953184047",
-  "hc_lt_sptag": "1304825061",
+  "hc_lt_sptag": "-110813404",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,29 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "977488193",
-      "hc_lt_id_sptag": "-810856471",
-      "id_img": "PrisonSchool_955576_crop2608_-1679405459",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvMmHF7I7qAzJby+AyIxtLZsAiN6Sq7KUcY6AjhlgsIpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvMmHF7I7qAzJby+AyIxtLY5QVmmRpnkiJzgvIKwNOXJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1583852094",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "1545739930",
-        "1541647243",
-        "1407370955",
-        "-1165766878",
-        "1078827483",
-        "1410951528"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "977488193",
@@ -86,45 +63,38 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "795716792",
-      "hc_lt_id_sptag": "1365259447",
-      "id_img": "Crossover_875270_crop2608_213714738",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpUF+1lOfQ3b9DDW7/NfpVd08zoj5KxK5+g0gt93qktJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpUF+1lOfQ3b9DDW7/NfpVQwxMjdLCo9dQKlxtw/r1vJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-2022510395",
+      "hc_lt_id_sptag": "-1658755496",
+      "id_img": "Crossover_739415_crop2608_-523997653",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnOXVr+Cb+LBEH1MpqsBA1BTBbMKtyI8XdAHzl/Evs8ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnOXVr+Cb+LBEH1MpqsBA1v+4bjJXH6T+JSCWNwGFGGJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "-467032699",
         "1213914829"
       ],
       "lt_id_sptag": [
-        "-91316480",
-        "1097983947",
-        "1341791943",
+        "-1690224249",
+        "-1777339095",
+        "1766911251",
+        "662307619",
+        "-356716844",
+        "-1384100878",
+        "1002437827",
+        "1742438435",
+        "353819882",
+        "-1907464970",
+        "-213893890",
+        "80287461",
+        "-456927585",
+        "370083232",
         "1407370955",
-        "1171821264"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "977488193",
-      "hc_lt_id_sptag": "656772715",
-      "id_img": "PrisonSchool_958348_crop2608_1464431533",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfFODb0HAKlV/wZcyvSxED74+jEBgs6FgKMG/SmYBD25Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfFODb0HAKlV/wZcyvSxEDzLXE4yBkKgXOtGRxxsf/gpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1583852094",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "1755521698",
-        "1407370955",
-        "-1165766878",
-        "1410951528"
+        "-639693217",
+        "-1787482787",
+        "-172225030",
+        "-1332049001",
+        "-431326511"
       ]
     },
     {
@@ -165,6 +135,50 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "795716792",
+      "hc_lt_id_sptag": "-991576278",
+      "id_img": "Crossover_875270_crop2608_213714738",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpUF+1lOfQ3b9DDW7/NfpVd08zoj5KxK5+g0gt93qktJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpUF+1lOfQ3b9DDW7/NfpVQwxMjdLCo9dQKlxtw/r1vJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-91316480",
+        "1097983947",
+        "1341791943",
+        "1407370955",
+        "1171821264"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "977488193",
+      "hc_lt_id_sptag": "656772715",
+      "id_img": "PrisonSchool_958348_crop2608_1464431533",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfFODb0HAKlV/wZcyvSxED74+jEBgs6FgKMG/SmYBD25Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfFODb0HAKlV/wZcyvSxEDzLXE4yBkKgXOtGRxxsf/gpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1583852094",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1755521698",
+        "1407370955",
+        "-1165766878",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-2022510395",
       "hc_lt_id_sptag": "-1658755496",
       "id_img": "Crossover_739415_crop2608_-1578356998",
@@ -201,38 +215,25 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-2022510395",
-      "hc_lt_id_sptag": "-1658755496",
-      "id_img": "Crossover_739415_crop2608_-523997653",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnOXVr+Cb+LBEH1MpqsBA1BTBbMKtyI8XdAHzl/Evs8ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnOXVr+Cb+LBEH1MpqsBA1v+4bjJXH6T+JSCWNwGFGGJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "977488193",
+      "hc_lt_id_sptag": "-810856471",
+      "id_img": "PrisonSchool_955576_crop2608_-1679405459",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvMmHF7I7qAzJby+AyIxtLZsAiN6Sq7KUcY6AjhlgsIpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvMmHF7I7qAzJby+AyIxtLY5QVmmRpnkiJzgvIKwNOXJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "1213914829"
+        "-1583852094",
+        "-1182628656"
       ],
       "lt_id_sptag": [
-        "-1690224249",
-        "-1777339095",
-        "1766911251",
-        "662307619",
-        "-356716844",
-        "-1384100878",
-        "1002437827",
-        "1742438435",
-        "353819882",
-        "-1907464970",
-        "-213893890",
-        "80287461",
-        "-456927585",
-        "370083232",
+        "1545739930",
+        "1541647243",
         "1407370955",
-        "-639693217",
-        "-1787482787",
-        "-172225030",
-        "-1332049001",
-        "-431326511"
+        "-1165766878",
+        "1078827483",
+        "1410951528"
       ]
     }
   ],
@@ -274,6 +275,12 @@
       "name_cl_sptag": "Beatrice ReZERO",
       "name_parent": "Anime",
       "total": 52
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-1787482787",

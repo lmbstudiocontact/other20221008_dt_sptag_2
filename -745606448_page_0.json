@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1186743933",
+  "hc_lt_data_img": "57464745",
   "hc_lt_nortag": "842880966",
-  "hc_lt_sptag": "-1805280058",
+  "hc_lt_sptag": "540766915",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "326641746",
-      "hc_lt_id_sptag": "-637952016",
+      "hc_lt_id_sptag": "-1725782003",
       "id_img": "ToukenRanbu_835109_crop2608_-2131973543",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCA5Tf8o4OlJ1pbwhPRPW/QTWygNW2nNY3gEH0pQijaZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCA5Tf8o4OlJ1pbwhPRPW/bcAIZNktc42GGQbwoUQSTpVy4706IhQgSYlgwrgVRHU=",
@@ -33,6 +33,7 @@
       ],
       "lt_id_sptag": [
         "-745606448",
+        "-467032699",
         "692268836"
       ]
     }
@@ -52,6 +53,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "-745606448",
       "name_cl_sptag": "Honebami Toushirou",

@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-2076825746",
+  "hc_lt_data_img": "1139872487",
   "hc_lt_nortag": "-1614861280",
-  "hc_lt_sptag": "-442398275",
+  "hc_lt_sptag": "-749087622",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,24 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "60599980",
-      "hc_lt_id_sptag": "1398866473",
-      "id_img": "MyriadColorsPhantomWorld_788652_crop2608_2099041266",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6b2vR6UaWMVgk5eBQ1T10sb/Pr9tDa00V1Ozcz2advJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6b2vR6UaWMVgk5eBQ1T1082QHnoVKddKOz+pceEyFgpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-270489726",
-        "-467032699"
-      ],
-      "lt_id_sptag": [
-        "-1172596840"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1595284288",
@@ -54,6 +36,25 @@
         "-1172596840",
         "-816194090",
         "1123521986"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "60599980",
+      "hc_lt_id_sptag": "-77873636",
+      "id_img": "MyriadColorsPhantomWorld_788652_crop2608_2099041266",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6b2vR6UaWMVgk5eBQ1T10sb/Pr9tDa00V1Ozcz2advJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6b2vR6UaWMVgk5eBQ1T1082QHnoVKddKOz+pceEyFgpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-270489726",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-1172596840"
       ]
     }
   ],
@@ -78,6 +79,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "-1172596840",
       "name_cl_sptag": "Haruhiko Ichijo",
